@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on javascript full stack web development!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other javascript developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: minmawoo@ucsm.edu.mm
 - ⚡ Fun fact: I'm moving slowly.
