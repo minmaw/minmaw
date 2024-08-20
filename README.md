@@ -1,4 +1,4 @@
-### Hi there, I'm MinnMawOo 👋
+### Hi there, I'm MinMawOo 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other javascript developers
